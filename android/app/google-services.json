@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975851918732",
+    "project_id": "tradearena-ba49f",
+    "storage_bucket": "tradearena-ba49f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975851918732:android:d911b24ba516582acb72a9",
+        "android_client_info": {
+          "package_name": "com.example.treadearena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegB1WNm3RlCXzb9B2n0NtC6IjcOuQkjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
