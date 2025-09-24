@@ -47,6 +47,7 @@ class AuthBloc extends Bloc<AuthEvent, AuthState> {
         emit(AuthFailure("User is null"));
       }
     } catch (e) {
+      //test
       emit(AuthFailure(e.toString()));
     }
   }
